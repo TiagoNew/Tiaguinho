@@ -1,0 +1,16 @@
+<hr>
+    <div>
+    <footer class="rodape">
+    <img class="imagensSociaisRodape" src="imagens/iconFacebook.png" alt="">
+    <img class="imagensSociaisRodape" src="imagens/iconInstagram.png" alt="">
+    <img class="imagensSociaisRodape" src="imagens/iconLikedin.png" alt="">
+    <img class="imagensSociaisRodape" src="imagens/iconTelegram.png" alt="">
+    <img class="imagensSociaisRodape" src="imagens/iconTikTok.png" alt="">
+    <img class="imagensSociaisRodape" src="imagens/iconTwitter.png" alt="">
+    <img class="imagensSociaisRodape" src="imagens/iconWhatsapp.png" alt="">
+    <img class="imagensSociaisRodape" src="imagens/iconYouTube.png" alt="">
+    </footer>
+    <hr class="linhaRodape" />
+    </div>
+  </body>
+</html>
